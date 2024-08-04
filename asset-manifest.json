@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pantryTracker/static/css/main.8cbbe225.css",
+    "main.js": "/pantryTracker/static/js/main.23dd9157.js",
+    "static/media/image.jpg": "/pantryTracker/static/media/image.7aa8d345819e2ed0278f.jpg",
+    "index.html": "/pantryTracker/index.html",
+    "main.8cbbe225.css.map": "/pantryTracker/static/css/main.8cbbe225.css.map",
+    "main.23dd9157.js.map": "/pantryTracker/static/js/main.23dd9157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cbbe225.css",
+    "static/js/main.23dd9157.js"
+  ]
+}
